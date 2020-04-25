@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - "\u041A\u0430\u043C\u0435\u043D\u044C"
+  - "\u041F\u0430\u043B\u043A\u0430"
+  - InventoryManager
   layers:
   - Default
   - TransparentFX
