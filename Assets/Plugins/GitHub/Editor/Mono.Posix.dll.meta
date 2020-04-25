@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: ddb8611e748af425a82a497ac5a98c0c
 timeCreated: 1503427590
 licenseType: Free
@@ -32,3 +33,6 @@ PluginImporter:
   userData:
   assetBundleName:
   assetBundleVariant:
+=======
+guid: ddb8611e748af425a82a497ac5a98c0c
+>>>>>>> dev

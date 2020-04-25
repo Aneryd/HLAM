@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: c743ae24ee231884887054d20ccdd0ae
 timeCreated: 1491391261
 licenseType: Free
@@ -32,3 +33,6 @@ PluginImporter:
   userData:
   assetBundleName:
   assetBundleVariant:
+=======
+guid: c743ae24ee231884887054d20ccdd0ae
+>>>>>>> dev

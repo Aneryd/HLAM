@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: f9fc9b08ecd899944adf9860b4abd6b6
 timeCreated: 1491392718
 licenseType: Free
@@ -32,3 +33,6 @@ PluginImporter:
   userData:
   assetBundleName:
   assetBundleVariant:
+=======
+guid: f9fc9b08ecd899944adf9860b4abd6b6
+>>>>>>> dev
